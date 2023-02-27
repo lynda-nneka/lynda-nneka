@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **I am Lynda Nneka** a tech enthusiast and software developer<br> who loves exploring the world of technology<br> building applications that helps improve the efficiency productivity and effectiveness of work.
 
 - 🔭 I’m currently working on building projects using c# and the dotnet framework.
@@ -9,7 +9,7 @@
 - 💬 Ask me about c#, dotnet, design patterns
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaedobelyn001@gmail.com)
 - ⚡ Fun fact:
--->
+
 <br>
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaedobe-lynda-ba6890232/)
